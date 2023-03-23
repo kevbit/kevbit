@@ -1,6 +1,5 @@
-- 👋 Hi there! I’m @kevbit!
-I'm a Computer Science Student and Competitive Programmer.
-- 💽 Main Languages: C++, Java, Python, MIPS Assembly, JavaScript
+Computer Science Student and Competitive Programmer.
+- 💽 Main Languages: C++, Java, Python
 
 
 <!---
