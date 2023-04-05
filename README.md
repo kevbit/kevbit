@@ -1,4 +1,4 @@
-Computer Science Student and Competitive Programmer and Amateur AI Wizard.
+Computer Science Student, Competitive Programmer and Amateur AI Wizard.
 - 💽 Main Languages: C++, Java, Python
 
 
